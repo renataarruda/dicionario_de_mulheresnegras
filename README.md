@@ -7,5 +7,5 @@ Projeto final do curso Eu ProgrAmo Front-End 2, da PrograMaria.
 ## Tecnologias
 HTML, CSS e Javascript.
 
-
+##
 Desenvolvido em dezembro de 2022.
